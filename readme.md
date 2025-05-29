@@ -1,4 +1,4 @@
-# ÜÇBEY APARTMANI İNŞAAT SİMÜLASYONU
+# ÇOK KATLIAPARTMAN İNŞAAT SİMÜLASYONU
 
 ## 🏗️ PROJE ADI:
 Çok Katlı Bir Apartmanın İnşası Üzerinden Process, Thread ve Senkronizasyon Kavramlarının Modellenmesi
