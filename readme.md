@@ -9,11 +9,6 @@
 - Levent Kutay SEZER — 22360859013  
 - Anıl SÜRMELİ — 22360859018
 
-**Bölüm**: Bilgisayar Mühendisliği  
-**Ders**: İşletim Sistemleri  
-**Danışman**: Mustafa Özgür CİNGİZ  
-**Tarih**: 26.05.2025  
-**Dönem**: 2024–2025 Bahar Dönemi
 
 ---
 
